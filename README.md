@@ -15,7 +15,7 @@ Acreditamos que, ao resolver problemas matemáticos familiares através da progr
 
 ## Como Utilizar
 
-As atividades estão organizadas em pastas e foram projetadas para serem resolvidas em ambientes de desenvolvimento que suportam Portugol, como o [Portugol Studio](https://portugol-studio.github.io/) ou similares. Cada exercício apresenta um problema matemático a ser transformado em um algoritmo funcional.
+As atividades estão organizadas em pastas e foram projetadas para serem resolvidas em ambientes de desenvolvimento que suportam Portugol, como o [Portugol Studio](https://portugol.dev/) ou similares. Cada exercício apresenta um problema matemático a ser transformado em um algoritmo funcional.
 
 ## Contribuições
 
