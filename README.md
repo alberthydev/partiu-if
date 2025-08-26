@@ -9,7 +9,7 @@ Este repositório é um material de apoio para o projeto de extensão "Partiu IF
 O principal objetivo deste espaço é fornecer um conjunto de atividades práticas que conectam a lógica de programação, utilizando a linguagem **Portugol**, com a aplicação de conceitos matemáticos do ensino fundamental, como:
 
 -   **Cálculo de áreas e perímetros de figuras planas** (quadrados, retângulos, triângulos, círculos, etc.).
--   **Aplicações básicas de trigonometria** (seno, cosseno e tangente em triângulos retângulos).
+-   **Medidas de Comprimento, Massa, Tempo, Temperatura** (relações de medidas, conversão de temperatura, etc...).
 
 Acreditamos que, ao resolver problemas matemáticos familiares através da programação, os estudantes podem solidificar seu conhecimento em ambas as áreas de forma lúdica e interativa.
 
