@@ -1,32 +1,27 @@
 programa
 {
-	// Faça um algoritmo que calcule a área de um triângulo. 
+	// Faça um algoritmo que calcule a circunferência de um círculo
+	inclua biblioteca Matematica
 	
 	funcao inicio()
 	{
-		real base, altura, area
+		real raio
 		
-		escreva("Área de um triângulo!\n")
+		escreva("Circunferência de um circulo!\n")
 		escreva("A área de um triângulo é dada pela fórmula: \n")
-		escreva("((Base x Altura)/2)\n")
-		escreva("Digite o valor da base do seu triângulo:\n")
-		leia(base)
-		escreva("Digite o valor da altura do seu triângulo\n")
-		leia(altura)
-		area = (base*altura)/2
+		escreva("(2*PI*r)\n")
+		escreva("Digite o valor do raio do seu circulo:\n")
+		leia(raio)
+		area = 2*PI*r
 		escreva("Sua área será de "+area)
 	}
 }
-
-
-
-
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 462; 
+ * @POSICAO-CURSOR = 105; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
