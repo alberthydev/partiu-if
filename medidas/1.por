@@ -6,12 +6,13 @@ programa
 	{
 	real metro, centimetros, milimetros
 	escreva("Digite um valor em metros:")
-	leia(metro)
+	leia(metro)
 	centimetros = metro*100
 	milimetros = metro*1000
 	escreva("Valor em centímetros: ", centimetros, "\nValor em milimetros: ", milimetros)
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
