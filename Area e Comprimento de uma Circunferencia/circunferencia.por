@@ -13,7 +13,7 @@ programa
 		escreva("Digite o valor do raio do seu circulo:\n")
 		leia(raio)
 		circ = 2*mat.PI*raio
-		escreva("Sua área será de "+circ)
+		escreva("Sua área será de "+mat.arredondar(circ, 2))
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -21,7 +21,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 223; 
+ * @POSICAO-CURSOR = 113; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
